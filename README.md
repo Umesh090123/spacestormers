@@ -8,5 +8,4 @@ Space Invaders is a two-dimensional fixed shooter game in which the player contr
 
 The aliens attempt to destroy the ship by firing at it while they approach the bottom of the screen. If they reach the bottom, the alien invasion is successful and the game ends. A special "mystery ship" will occasionally move across the top of the screen and award bonus points if destroyed. The ship is partially protected by several stationary defense bunkers that are gradually destroyed by projectiles from the aliens and player.
 
-![image](https://user-images.githubusercontent.com/87341226/180875373-0ad4d0b4-9ad9-483b-ae1e-e9f5703480ac.png)
-
+![WhatsApp Image 2022-07-26 at 2 45 02 AM](https://user-images.githubusercontent.com/87341226/180875568-46cf85ee-219c-460c-a001-19c3bf36d97e.jpeg)
